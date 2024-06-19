@@ -186,8 +186,7 @@ const Footer = props => {
             {/* 网站所有者 */}
             <div>
               {' '}
-              Copyright <i className='fas fa-copyright' /> {`${copyrightDate}`}{' '}
-
+              Copyright <i className='fas fa-copyright' /> {`${copyrightDate}`}{' '}.
               Все права защищены.
             </div>
 
@@ -195,7 +194,7 @@ const Footer = props => {
             <div className='text-xs text-light-500 dark:text-gray-700'>
               Powered for
               <a href="https://www.instagram.com/volkatery.shop/" className=' hover:underline'> you ❤️</a>
-              .
+
             </div>
 
             {/* 站点统计 */}
