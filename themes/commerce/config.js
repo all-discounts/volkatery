@@ -7,7 +7,7 @@ const CONFIG = {
     '🥇 Качественные натуральные ткани 💚 Экологичный подход вплоть до вторичной упаковки ❄️ Уникальные вторичные вещи', // 中间产品区块文字描述
   COMMERCE_TEXT_CENTER_CATEGORY_TITLE: 'Категории', // 左侧产品分类标题
   COMMERCE_TEXT_FOOTER_TITLE: 'Сввязаться с нами', // COMMERCE主题页脚文案标题；按Shift+Enter键可以换行
-  COMMERCE_TEXT_FOOTER_MENU_1: 'Центр продуктов', // COMMERCE主题页脚左侧菜单标题1
+  COMMERCE_TEXT_FOOTER_MENU_1: 'Что у нас есть?', // COMMERCE主题页脚左侧菜单标题1
   COMMERCE_TEXT_FOOTER_MENU_2: 'О нас', // COMMERCE主题页脚左侧菜单标题2
 
   COMMERCE_FOOTER_RIGHT_IMG_URL: null, // 显示页脚右侧的图片，通常放二维码
