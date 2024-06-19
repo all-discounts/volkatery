@@ -101,7 +101,7 @@ const Footer = props => {
                             rel='noreferrer'
                             href={siteConfig('CONTACT_WHATSAPP', '#', CONFIG)}
                             title={'telegram'}>
-                            <i className='transform hover:scale-125 duration-150 fa-brands fa-whatsapp dark:hover:text-red-400 hover:text-red-600' />
+                            <i className='transform hover:scale-125 duration-150 fa-brands fa-instagram dark:hover:text-red-400 hover:text-red-600' />
                           </a>
                         }
                       </div>
