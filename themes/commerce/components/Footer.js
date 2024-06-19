@@ -187,22 +187,14 @@ const Footer = props => {
             <div>
               {' '}
               Copyright <i className='fas fa-copyright' /> {`${copyrightDate}`}{' '}
-              <a
-                href={siteConfig('LINK')}
-                className='underline font-bold  dark:text-gray-300 '>
-                {siteConfig('AUTHOR')}
-              </a>{' '}
-              All Rights Reserved.
+
+              Все права защищены.
             </div>
 
             {/* 技术支持 */}
             <div className='text-xs text-light-500 dark:text-gray-700'>
-              Powered by{' '}
-              <a
-                href='https://github.com/tangly1024/NotionNext'
-                className='dark:text-gray-300'>
-                NotionNext {siteConfig('VERSION')}
-              </a>
+              Powered for
+              <a href="https://www.instagram.com/volkatery.shop/" className=' hover:underline'> you ❤️</a>
               .
             </div>
 
