@@ -186,7 +186,7 @@ const Footer = props => {
             {/* 网站所有者 */}
             <div>
               {' '}
-              Copyright <i className='fas fa-copyright' /> {`${copyrightDate}`}{' '}.
+              Copyright <i className='fas fa-copyright' /> {`${copyrightDate}`}.{' '}
               Все права защищены.
             </div>
 
