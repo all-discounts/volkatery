@@ -184,11 +184,7 @@ const Footer = props => {
           className='flex flex-col md:flex-row justify-between border-t border-gray-600 pt-8 px-4 md:px-0'>
           <div className='text-start space-y-1'>
             {/* 网站所有者 */}
-            <div>
-              {' '}
-              Copyright <i className='fas fa-copyright' /> {`${copyrightDate}`}.{' '}
-              Все права защищены.
-            </div>
+
 
             {/* 技术支持 */}
             <div className='text-xs text-light-500 dark:text-gray-700'>
