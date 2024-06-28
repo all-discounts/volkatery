@@ -192,8 +192,8 @@ const Footer = props => {
 
             {/* 技术支持 */}
             <div className='text-xs text-light-500 dark:text-gray-700'>
-              Powered for
-              <a href="https://www.instagram.com/volkatery.shop/" className=' hover:underline'> you ❤️</a>
+              Сделано с
+              <a href="https://www.instagram.com/volkatery.shop/" className=' hover:underline'> любовью ❤️</a>
 
             </div>
 
